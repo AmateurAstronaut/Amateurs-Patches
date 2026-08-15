@@ -1,0 +1,4 @@
+V1.3
+
+Thanks to Kea and Luci and BobKermanIndustries for their help with this
+Thank you to Sam for allowing me to redistribute his KNES plume patch
